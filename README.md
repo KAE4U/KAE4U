@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedro!
-- I'm looking for my first job in the technology area, all in all, my knowledge is shallow, but I have the time and dedication to learn new things.
+- I'm looking for my first job in the developer area, all in all, my knowledge is shallow, but I have the time and dedication to learn new things.
 - My English is average, I read, write and understand very well, my speaking is a little behind, but with a little practice everything will be resolved.
 - I have basic skills in using Python, HTML5 and CSS, but much better in Python, mastering the basics completely.
   
