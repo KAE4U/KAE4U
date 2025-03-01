@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Pedro!, and i´m from Bauru/SP!</h2>
+<h3 align="left">Searching for my first Job in the dev area!</h3>
 
 ###
 
