@@ -6,11 +6,8 @@
 
 ###
 
-<img align="right" height="260" src="https://i.gifer.com/XSNu.gif"  />
 
-###
 
-<img align="right" height="250" src="https://i.gifer.com/ZU4S.gif"  />
 
 ###
 
