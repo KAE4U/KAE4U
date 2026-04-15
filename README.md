@@ -1,5 +1,8 @@
 <h1 align="left">Hi👋! My name is Pedro! And I am a back-end developer.<br></h1>
 
+<img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-brightgreen?style=for-the-badge" alt="open to internship" />
+<img src="https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge" alt="english" />
+
 ###
 
 <img align="right" height="270" src="https://media.tenor.com/ptl9U5YvK_wAAAAj/shiny-charizard-fire.gif"  />
@@ -32,4 +35,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows logo" />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-rizzato" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KAE4U&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
+  <img src="http
