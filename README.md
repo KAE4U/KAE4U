@@ -1,4 +1,4 @@
-```md
+
 <h1 align="left">Hi👋! My name is Pedro! And I am a back-end developer.</h1>
 
 <img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-brightgreen?style=for-the-badge" alt="open to internship" />
